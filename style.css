@@ -333,10 +333,7 @@ ul.products li .product-info a.product-price {
 footer {
     max-width: 1800px;
     margin: 100px auto 50px 10px;
-    border: 1px solid #111;
     height: auto;
-    position: absolute;
-    z-index: 4;
 }
 
 .footer-top {
